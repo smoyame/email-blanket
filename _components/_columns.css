@@ -1,0 +1,5 @@
+@media (min-width:560px) {
+	.column {
+		display: table-cell !important;
+	}
+}
